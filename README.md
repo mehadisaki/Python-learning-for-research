@@ -31,3 +31,4 @@ Libraries
     requests - A popular library for handling HTTP requests.
     Kivy - A modern GUI toolkit for building apps, works seamlessly on Linux, Android, Windows and Mac.
     PySide - Alternative GUI toolkit in Python, the open source version of PyQt which is commercial.
+    Scikit-learn - for machine learning
